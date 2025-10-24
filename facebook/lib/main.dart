@@ -2,6 +2,7 @@ import 'package:facebook/pages/custommain.dart';
 import 'package:facebook/pages/newsfeed.dart';
 import 'package:flutter/material.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
@@ -23,4 +24,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
 
